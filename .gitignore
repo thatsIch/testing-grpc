@@ -2,21 +2,13 @@
 /*
 
 # include important folders
-# include maven and its plugin-files
-!.mvn/
-!pom.xml
-!mvnw
-!mvnw.cmd
-
 # include markdowns
 !README.md
 !LICENSE
 
-# include sourcecode
-!src/
-
 # include git important files
 !.gitignore
 
-# include CI files
-!appveyor.yml
+# include subprojects
+!chat-javafx-client/
+!chat-server/
